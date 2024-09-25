@@ -15,7 +15,7 @@ const About = () => {
             <p className="text-lg mb-8">
               I am a passionate Front-End developer with a focus on building
               modern and responsive website applications. With a strong
-              foundation in both frontend technologies , I strive to create
+              foundation in both front-end technologies , I strive to create
               seamless and efficient user experiences.
             </p>
             <div className="space-y-4">
